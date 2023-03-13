@@ -1,0 +1,12 @@
+img{
+    width:100%;
+    max-width:600px;
+    margin: auto;
+}
+
+
+.jumbotron{
+    background-image: url(assets/jumbotron-background.jpeg) ;
+    background-position: center;
+    background-size: cover;
+}
